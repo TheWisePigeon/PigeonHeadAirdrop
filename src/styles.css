@@ -6,13 +6,19 @@
 .action-div{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
-.action-div button{
-    margin: 5px;
-    border-radius: 90px;
+.action-div a{
+    margin: 20px;
+    color: black;
+    
 }
 
 body{
     background-color: aquamarine;
+}
+
+.separator{
+    color: black;
 }

@@ -13,10 +13,12 @@ function App() {
         </div>
 
         <div className=" action-div">
-          <button>Login</button>
-          <button>Register</button>
+          <a>Login</a><br />
+          <a>Register</a>
         </div>
+        
       </header>
+      <hr className=" separator"/>
     </div>
   )
 }

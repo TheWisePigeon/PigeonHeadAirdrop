@@ -18,7 +18,6 @@ function App() {
         </div>
         
       </header>
-      <hr className=" separator"/>
     </div>
   )
 }

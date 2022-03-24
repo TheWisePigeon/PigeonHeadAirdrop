@@ -1,6 +1,8 @@
 .header{
     display: flex;
     justify-content: space-between;
+    border: 5px;
+    align-items: center;
 }
 
 .action-div{
@@ -15,7 +17,5 @@
     
 }
 
-body{
-    background-color: aquamarine;
-}
+
 

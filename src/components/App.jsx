@@ -7,24 +7,23 @@ function App() {
     <div >
       <header className=" header" >
         <div>
-          <Typography variant="h4"  >
+          <Typography className=" test" variant="h4"  >
             Pigeon Head Airdrop
           </Typography>
         </div>
 
         <div className=" action-div">
           <Link underline="none" href="#" >
-            <Typography variant="h6"  >
+            <Typography variant="h6" color="white" >
               Login
             </Typography>
           </Link><br />
           <Link underline="none" href="#"  >
-            <Typography variant="h6">
+            <Typography variant="h6" color="white">
               Register
             </Typography>
           </Link>
         </div>
-        
       </header>
     </div>
   )
